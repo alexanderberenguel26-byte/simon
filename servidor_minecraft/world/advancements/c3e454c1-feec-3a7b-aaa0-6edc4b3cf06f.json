@@ -1,0 +1,151 @@
+{
+  "cosmeticarmoursmod:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-10-23 03:01:56 +0000"
+    },
+    "done": true
+  },
+  "cosmeticarmoursmod:cosmetic_armours_achievement": {
+    "criteria": {
+      "cosmetic_armours_achievement_0": "2025-10-23 03:01:56 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-10-23 03:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-10-24 01:44:38 +0000",
+      "minecraft:forest": "2025-10-23 03:03:24 +0000",
+      "minecraft:old_growth_birch_forest": "2025-10-23 03:01:56 +0000",
+      "minecraft:plains": "2025-10-23 03:02:15 +0000"
+    },
+    "done": false
+  },
+  "endofherobrine:story/root": {
+    "criteria": {
+      "requirement": "2025-10-23 03:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-10-23 03:05:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-10-23 03:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-10-23 03:09:54 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-10-23 03:12:57 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-10-23 03:12:57 +0000"
+    },
+    "done": false
+  },
+  "apollyon:apollyon": {
+    "criteria": {
+      "apollyon": "2025-10-23 03:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-10-23 03:16:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-10-23 03:22:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-10-24 01:44:04 +0000",
+      "bread": "2025-10-23 03:38:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-10-23 03:38:47 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:the_horror_has_arrived": {
+    "criteria": {
+      "the_horror_has_arrived": "2025-10-23 03:52:16 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:survived_the_nightmare": {
+    "criteria": {
+      "survived_the_nightmare": "2025-10-23 04:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-10-24 02:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-10-24 02:36:47 +0000"
+    },
+    "done": true
+  },
+  "the_knocker:cant_sleep": {
+    "criteria": {
+      "cant_sleep_0": "2025-10-24 02:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-10-24 04:02:16 +0000"
+    },
+    "done": true
+  },
+  "knize1007:hostilemobs": {
+    "criteria": {
+      "tick": "2025-10-29 03:20:19 +0000"
+    },
+    "done": true
+  },
+  "knize1007:root": {
+    "criteria": {
+      "tick": "2025-10-29 03:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-10-29 03:26:06 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

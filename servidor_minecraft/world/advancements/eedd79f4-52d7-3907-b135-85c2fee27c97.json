@@ -1,0 +1,313 @@
+{
+  "cosmeticarmoursmod:cosmetic_armours_achievement": {
+    "criteria": {
+      "cosmetic_armours_achievement_0": "2025-10-14 00:50:53 +0000"
+    },
+    "done": true
+  },
+  "cosmeticarmoursmod:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-10-14 00:58:08 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-10-14 00:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2025-10-14 02:09:35 +0000",
+      "minecraft:cherry_grove": "2025-10-24 03:00:14 +0000",
+      "minecraft:birch_forest": "2025-10-14 03:53:50 +0000",
+      "minecraft:savanna_plateau": "2025-10-24 01:41:42 +0000",
+      "minecraft:beach": "2025-10-14 01:22:14 +0000",
+      "minecraft:river": "2025-10-14 03:52:26 +0000",
+      "minecraft:stony_shore": "2025-10-14 03:02:25 +0000",
+      "minecraft:dripstone_caves": "2025-10-27 02:06:27 +0000",
+      "minecraft:forest": "2025-10-23 07:46:39 +0000",
+      "minecraft:ocean": "2025-10-14 02:08:54 +0000",
+      "minecraft:old_growth_birch_forest": "2025-10-14 00:58:09 +0000",
+      "minecraft:savanna": "2025-10-23 05:58:09 +0000",
+      "minecraft:plains": "2025-10-23 04:09:18 +0000"
+    },
+    "done": false
+  },
+  "apollyon:apollyon": {
+    "criteria": {
+      "apollyon": "2025-10-14 01:18:03 +0000"
+    },
+    "done": true
+  },
+  "endofherobrine:story/root": {
+    "criteria": {
+      "requirement": "2025-10-14 01:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-10-14 01:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-10-14 02:01:09 +0000",
+      "cooked_beef": "2025-10-14 02:23:37 +0000",
+      "bread": "2025-10-24 01:45:42 +0000",
+      "salmon": "2025-10-24 01:21:55 +0000",
+      "cooked_salmon": "2025-10-23 06:30:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-10-14 02:01:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-10-14 02:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-10-14 02:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-10-14 02:47:22 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:the_horror_has_arrived": {
+    "criteria": {
+      "the_horror_has_arrived": "2025-10-14 02:50:51 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:survived_the_nightmare": {
+    "criteria": {
+      "survived_the_nightmare": "2025-10-14 02:58:50 +0000"
+    },
+    "done": true
+  },
+  "the_knocker:cant_sleep": {
+    "criteria": {
+      "cant_sleep_0": "2025-10-23 04:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-10-24 01:44:17 +0000",
+      "minecraft:ghast": "2025-10-29 01:57:07 +0000",
+      "minecraft:spider": "2025-10-27 01:54:45 +0000",
+      "minecraft:creeper": "2025-10-29 02:05:15 +0000",
+      "minecraft:zombie": "2025-10-23 05:02:48 +0000",
+      "quark:foxhound": "2025-10-29 01:57:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-10-23 05:02:48 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-10-23 05:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-10-23 05:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-10-23 06:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:white": "2025-10-29 02:58:13 +0000",
+      "minecraft:siamese": "2025-10-23 06:09:26 +0000",
+      "minecraft:black": "2025-10-29 02:58:26 +0000",
+      "minecraft:red": "2025-10-23 06:10:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-10-23 07:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-10-24 01:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-10-24 01:54:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-10-24 02:27:47 +0000"
+    },
+    "done": true
+  },
+  "endofherobrine:story/exorcist": {
+    "criteria": {
+      "endofherobrine:silverfish": "2025-10-24 03:56:36 +0000",
+      "endofherobrine:sheep": "2025-10-24 02:30:25 +0000",
+      "endofherobrine:cow": "2025-10-24 02:29:45 +0000",
+      "endofherobrine:pigman": "2025-10-24 02:35:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-10-24 02:43:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-10-24 02:59:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-10-24 03:07:54 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:ghostbusters": {
+    "criteria": {
+      "ghostbusters": "2025-10-24 03:09:57 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-10-24 03:21:34 +0000"
+    },
+    "done": true
+  },
+  "knize1007:hostilemobs": {
+    "criteria": {
+      "tick": "2025-10-27 01:09:29 +0000"
+    },
+    "done": true
+  },
+  "knize1007:root": {
+    "criteria": {
+      "tick": "2025-10-27 01:09:29 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-10-27 02:12:09 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-10-29 02:06:26 +0000",
+      "opened_chest": "2025-10-27 02:12:09 +0000"
+    },
+    "done": false
+  },
+  "portablemobs:captureadvancement": {
+    "criteria": {
+      "capture": "2025-10-29 02:52:04 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:mastercelladvancement": {
+    "criteria": {
+      "mastercell": "2025-10-29 02:33:07 +0000"
+    },
+    "done": true
+  },
+  "knize1007:day10": {
+    "criteria": {
+      "play25days": "2025-10-29 01:20:08 +0000"
+    },
+    "done": true
+  },
+  "apollyon:back_to_hell": {
+    "criteria": {
+      "back_to_hell": "2025-10-29 00:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-10-29 01:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-10-29 01:55:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-10-29 01:55:25 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:one_two_freddys_coming_for_you": {
+    "criteria": {
+      "one_two_freddys_coming_for_you": "2025-10-29 00:31:18 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:sweet_victory": {
+    "criteria": {
+      "sweet_victory": "2025-10-29 02:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-10-29 01:55:25 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-10-29 02:06:26 +0000"
+    },
+    "done": true
+  },
+  "intensehorror:become_death": {
+    "criteria": {
+      "become_death": "2025-10-28 23:45:43 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

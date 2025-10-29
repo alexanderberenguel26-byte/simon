@@ -1,0 +1,15 @@
+{
+	id: "909053c8-80dc-392e-9f0e-3462b01f939b"
+	type: "player"
+	player_name: "asura2077"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "asura2077"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF7A"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

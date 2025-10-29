@@ -1,0 +1,15 @@
+{
+	id: "c3e454c1-feec-3a7b-aaa0-6edc4b3cf06f"
+	type: "player"
+	player_name: "GodJsue"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "GodJsue"
+		"ftbteams:description": ""
+		"ftbteams:color": "#CDFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
